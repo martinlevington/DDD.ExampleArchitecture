@@ -1,2 +1,5 @@
 ﻿.vs
 src/DDD.WpfApp/obj
+src/DDD.Wpf.Common/bin
+src/DDD.Wpf.Common/obj
+src/DDD.WpfApp/bin
